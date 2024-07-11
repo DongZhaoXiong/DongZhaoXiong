@@ -1,2 +1,1 @@
-| <a href="https://github.com/DongZhaoXiong/DongZhaoxiong"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DongZhaoXiong&count_private=true&hide=stars&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/DongZhaoXiong/DongZhaoxiong"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongZhaoXiong&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
